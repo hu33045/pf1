@@ -1,6 +1,4 @@
 .wrap{
-
-
   width: 1440px;
   margin: 0 auto;
 }
@@ -8,25 +6,22 @@
   font-size: 40px;
 }
 .h2{
-  font-size: 28px; 
+  font-size: 28px;
 }
 .h3{
-  font-size: 22px;
+   font-size: 20px;
 }
 .h4{
   font-size: 18px;
 }
 .h5{
- font-size: 14px;
+
 }
 .h6{
- font-size: 13px;
-}
-.h7{
- font-size: 11px;
+
 }
 .p{
- font-size: 16px;    
+   font-size: 16px;  
 }
 .block{
   display: block;
@@ -40,16 +35,27 @@
 .paddingB50{
   padding-bottom: 50px;
 }
+.marginB30{
+  margin-bottom:40px; 
+}
 .current{
   background-color: #00f !important;
   color: #fff;
 }
 .flex{
-  display: flex;
-}
-.marginB30{
-  margin-bottom:30px;
+  display:flex;
 }
 .hide{
-display:none;
+  display: none;
 }
+
+
+
+
+
+
+
+
+
+
+

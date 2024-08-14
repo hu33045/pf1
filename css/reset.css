@@ -365,9 +365,20 @@ textarea {
     padding: 0.2em 0;
 }
 a{
-   color: initial;
-   text-decoration: none; 
+    color: initial;
+    text-decoration: none ;
 }
 button{
-    all:unset;
+	all: unset; 
 }
+
+
+
+
+
+
+
+
+
+
+
